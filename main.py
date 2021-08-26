@@ -13,4 +13,4 @@ print(test_one())	#Prints "None"
 def test_two():
 	assert sum_of_squares([-1, -2, -3]) == 14
 
-print(test_two())	#Prints 
+print(test_two())	#Prints "None"
